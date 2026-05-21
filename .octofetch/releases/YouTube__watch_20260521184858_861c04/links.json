@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3078",
+  "folder": "YouTube__watch_20260521184858_861c04",
+  "base_name": "Michael_Biopic_Billie_Jean_(Concept_Soundtrack_by_Azura_Music)_9CmxXVepAdo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/axrsami-sys/Cloud-Downloads12/releases/tag/co-releases-v1-3078",
+  "files": [
+    {
+      "name": "Michael_Biopic_Billie_Jean_.Concept_Soundtrack_by_Azura_Music._9CmxXVepAdo_720p.mp4",
+      "url": "https://github.com/axrsami-sys/Cloud-Downloads12/releases/download/co-releases-v1-3078/Michael_Biopic_Billie_Jean_.Concept_Soundtrack_by_Azura_Music._9CmxXVepAdo_720p.mp4",
+      "api_url": "https://api.github.com/repos/axrsami-sys/Cloud-Downloads12/releases/assets/426388589",
+      "id": 426388589,
+      "size": 19819817,
+      "download_count": 0
+    }
+  ]
+}
